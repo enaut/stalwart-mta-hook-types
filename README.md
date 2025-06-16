@@ -4,6 +4,8 @@
 
 Rust type definitions for Stalwart Mail Transfer Agent (MTA) hooks. This crate provides strongly-typed request and response structures for implementing external hooks in Stalwart Mail Server.
 
+See also: https://stalw.art/docs/api/mta-hooks/overview
+
 ## Overview
 
 This crate defines the data structures used for communication between Stalwart Mail Server and external hook implementations. It provides:
