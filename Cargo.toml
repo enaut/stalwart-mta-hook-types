@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: 2020 Stalwart Labs LLC <hello@stalw.art>
+# SPDX-FileCopyrightText: 2025 Franz Dietrich <dietrich@teilgedanken.de>
+#
+# SPDX-License-Identifier: AGPL-3.0-only
+
+[package]
+name = "stalwart_mta_hook_types"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
