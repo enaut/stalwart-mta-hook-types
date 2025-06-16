@@ -28,7 +28,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-stalwart_mta_hook_types = "0.1.0"
+stalwart_mta_hook_types = "0.1"
 ```
 
 ### Basic Example

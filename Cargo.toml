@@ -5,7 +5,7 @@
 
 [package]
 name = "stalwart_mta_hook_types"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Franz Dietrich <dietrich@teilgedanken.de>"]
 description = "Rust type definitions for Stalwart Mail Transfer Agent (MTA) hooks"
