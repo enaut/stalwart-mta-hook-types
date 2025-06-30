@@ -1,6 +1,6 @@
 # stalwart_mta_hook_types
 
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT OR Apache-2.0](https://img.shields.io/badge/License-MIT%20OR%20Apache--2.0-green.svg)](https://opensource.org/licenses/MIT)
 
 Rust type definitions for Stalwart Mail Transfer Agent (MTA) hooks. This crate provides strongly-typed request and response structures for implementing external hooks in Stalwart Mail Server.
 
@@ -102,7 +102,12 @@ For the functionality available see the stalwart documentation at: https://stalw
 
 ## License
 
-This project is licensed under the Apache-2.0 license.
+This project is dual-licensed under either:
+
+- [MIT License](LICENSE-MIT)
+- [Apache License 2.0](LICENSE-APACHE)
+
+at your option.
 
 ## Contributing
 
@@ -114,4 +119,4 @@ Based on Stalwart Mail Server hook types:
 - Original work: Copyright 2020 Stalwart Labs LLC
 - Modifications: Copyright 2025 Franz Dietrich
 
-Both licensed under Apache-2.0.
+Both licensed under MIT OR Apache-2.0.
